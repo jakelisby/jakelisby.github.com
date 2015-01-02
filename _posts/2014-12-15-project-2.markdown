@@ -1,0 +1,15 @@
+---
+title: Sseko
+subtitle: Website Development
+layout: default
+modal-id: 1
+date: 2013-08-01
+img: sseko.png
+thumbnail: sseko-thumbnail.png
+alt: sseko-designs
+project-date: Summer 2013
+client: Sseko Designs
+category: Web Development
+description: We worked with Sseko to implement designed completed by another agency and fully develop a robust Wordpress site with custom functionality and a large implementation of Magento. We also developed several custom plugins for Magento to customize the needed functionality and ensure Sseko could support their large amounts of traffic.
+
+---

@@ -1,0 +1,15 @@
+---
+title: Dewsly 2.0
+subtitle: Website Development
+layout: default
+modal-id: 1
+date: 2014-12-15
+img: dewsly.png
+thumbnail: dewsly-thumbnail.png
+alt: dewsly
+project-date: Winter 2014
+client: Dewsly Media, LLC
+category: Web Development
+description: As Dewsly grew into many school districts, they needed a lighter weight system that could easily send out messages anywhere in the nation, create individual blogs and integrate with robust school data systems. This is where our extensive enterprise architecture experience comes into play. 
+
+---
